@@ -6,4 +6,5 @@ package com.example.huzan.branchtest;
 
 public class Person {
     public String name;
+    public int age;
 }
