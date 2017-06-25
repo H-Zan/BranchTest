@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         Person tutu = new Person();
         tutu.age = 20;
         Person jake = new Person();
+        jake.age = 18;
     }
 }
