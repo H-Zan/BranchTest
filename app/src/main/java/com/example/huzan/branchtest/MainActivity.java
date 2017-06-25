@@ -11,6 +11,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
         Person tutu = new Person();
         tutu.age = 20;
-        tutu.age = 22;
+        Person jake = new Person();
+        jake.age = 18;
     }
 }
